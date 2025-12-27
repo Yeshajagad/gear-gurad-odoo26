@@ -457,3 +457,14 @@ npm start
 
 ---
 
+<img width="1705" height="907" alt="Screenshot 2025-12-27 at 5 42 46 PM" src="https://github.com/user-attachments/assets/8baa3d21-876b-41e8-a284-fe7b2754620b" />
+<img width="1705" height="907" alt="Screenshot 2025-12-27 at 5 42 54 PM" src="https://github.com/user-attachments/assets/40540bea-a8b9-4e01-aaf2-6f89d1504028" />
+<img width="1705" height="907" alt="Screenshot 2025-12-27 at 5 43 46 PM" src="https://github.com/user-attachments/assets/fea3330a-bf18-490d-a88b-b3d009d34600" />
+<img width="1705" height="907" alt="Screenshot 2025-12-27 at 5 43 55 PM" src="https://github.com/user-attachments/assets/7914c5a2-9053-4d02-b82f-417c0e83370d" />
+<img width="1705" height="907" alt="Screenshot 2025-12-27 at 5 42 20 PM" src="https://github.com/user-attachments/assets/1db3ffcd-7efb-4806-8d7f-c8259a85bb7d" />
+
+
+
+
+
+
