@@ -464,7 +464,11 @@ npm start
 <img width="1705" height="907" alt="Screenshot 2025-12-27 at 5 42 20 PM" src="https://github.com/user-attachments/assets/1db3ffcd-7efb-4806-8d7f-c8259a85bb7d" />
 
 
-
+Emails : 
+Yesha Jagad : yeshajagad29@gamil.com
+kresi Chabhadiya : kresichabhadiya@gmail.com
+Khushi Malani : malanikhushi.2594@gmail.com
+Kavita Rajput : kavita2310rajput@gmail.com
 
 
 
